@@ -1,0 +1,2 @@
+# Nuxt
+Vue Application
